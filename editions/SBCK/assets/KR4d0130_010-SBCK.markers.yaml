@@ -191,6 +191,7 @@ markers:
   - {type: line-break, offset: 529, content: '', id: KR4d0130_SBCK_010-3a04}
   - {type: indent, offset: 529, content: 　　, id: KR4d0130_SBCK_010-bkkind11}
   - {type: punctuation, offset: 534, content: (, id: KR4d0130_SBCK_010-bkkpn1}
+  - {type: voice, offset: 534, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 536, content: ), id: KR4d0130_SBCK_010-bkkpn2}
   - {type: 'kr:newline', offset: 536, content: '
 
@@ -221,6 +222,7 @@ markers:
       ', id: KR4d0130_SBCK_010-bkkkrnewl50}
   - {type: line-break, offset: 616, content: '', id: KR4d0130_SBCK_010-3b01}
   - {type: punctuation, offset: 624, content: (, id: KR4d0130_SBCK_010-bkkpn3}
+  - {type: voice, offset: 624, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 628, content: ), id: KR4d0130_SBCK_010-bkkpn4}
   - {type: 'kr:newline', offset: 632, content: '
 
@@ -338,6 +340,7 @@ markers:
   - {type: line-break, offset: 810, content: '', id: KR4d0130_SBCK_010-4b01}
   - {type: indent, offset: 810, content: 　　, id: KR4d0130_SBCK_010-bkkind46}
   - {type: punctuation, offset: 816, content: (, id: KR4d0130_SBCK_010-bkkpn5}
+  - {type: voice, offset: 816, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 818, content: ), id: KR4d0130_SBCK_010-bkkpn6}
   - {type: 'kr:newline', offset: 818, content: '
 
@@ -1076,6 +1079,7 @@ markers:
   - {type: line-break, offset: 2435, content: '', id: KR4d0130_SBCK_010-12a06}
   - {type: indent, offset: 2435, content: 　　　　, id: KR4d0130_SBCK_010-bkkind188}
   - {type: punctuation, offset: 2440, content: (, id: KR4d0130_SBCK_010-bkkpn7}
+  - {type: voice, offset: 2440, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2442, content: ), id: KR4d0130_SBCK_010-bkkpn8}
   - {type: 'kr:newline', offset: 2442, content: '
 
@@ -1110,4 +1114,4 @@ markers:
 
       ', id: KR4d0130_SBCK_010-bkkkrnewl226}
   back: []
-hash: sha256:27507a2cd9addf1fb7b9608f6a3a54c323d9d5dd6ffe0c7e947e71ad3af53699
+hash: sha256:857833ec7c360c9411c1510f5a92d4c2f9477d3c7ad825e48fad541f3027e23d
